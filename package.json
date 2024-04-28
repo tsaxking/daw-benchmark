@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "esbuild"
+  },
+  "dependencies": {
+    "svelte": "^4.2.15"
+  },
+  "devDependencies": {
+    "esbuild": "0.20.2"
+  }
+}
