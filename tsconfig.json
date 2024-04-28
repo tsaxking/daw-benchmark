@@ -1,4 +1,7 @@
 {
+    "ts-node": {
+        "files": true
+    },
     // "$schema": "./tsconfig.schema.json",
     // Rest of the code...
     "compilerOptions": {
